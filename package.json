@@ -5,7 +5,7 @@
   },
   "scripts": {
     "start": "",
-    "build": "sudo ./core3.1.sh",
+    "build": "dotnet build --configuration Release",
 	"test": "./core3.1.sh"
   }
 }
