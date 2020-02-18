@@ -2,10 +2,5 @@
   "name": "app-net-core",
   "version": "0.0.1",
   "dependencies": {
-  },
-  "scripts": {
-    "start": "",
-    "build": "dotnet build --configuration Release",
-	"test": "./core3.1.sh"
   }
 }
