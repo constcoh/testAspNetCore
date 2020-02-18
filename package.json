@@ -5,7 +5,7 @@
   },
   "scripts": {
     "start": "",
-    "build": "./core3.1.sh",
+    "build": "sudo ./core3.1.sh",
 	"test": "./core3.1.sh"
   }
 }
