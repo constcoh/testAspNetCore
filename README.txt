@@ -1,0 +1,1 @@
+It uses next buildback https://github.com/jincod/dotnetcore-buildpack
